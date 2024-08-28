@@ -1,0 +1,31 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_102_171)">
+<rect width="22" height="22" rx="8" fill="white" fill-opacity="0.9"/>
+<g filter="url(#filter0_di_102_171)">
+<path d="M17.5198 14.8374C17.7879 13.8373 17.8223 12.7889 17.6204 11.7733C17.4185 10.7578 16.9857 9.80224 16.3554 8.98072C15.7251 8.1592 14.9143 7.49369 13.9857 7.03569C13.057 6.57769 12.0354 6.33948 11 6.33948C9.96455 6.33948 8.94298 6.57769 8.01434 7.03569C7.08569 7.49369 6.27485 8.1592 5.64457 8.98072C5.01429 9.80224 4.58146 10.7578 4.37956 11.7733C4.17766 12.7889 4.21211 13.8373 4.48025 14.8374" stroke="#379ADC" stroke-linecap="round"/>
+<path d="M11.5745 13.5264C11.9398 14.0589 11.6825 14.8704 11 15.3392C10.3175 15.8087 9.46775 15.7577 9.1025 15.2259C8.7125 14.6589 7.367 11.4707 6.55025 9.49818C6.3965 9.12693 6.85025 8.81493 7.14275 9.09168C8.69075 10.5617 11.1853 12.9594 11.5745 13.5264Z" stroke="#379ADC"/>
+<path d="M11 6.33994V7.83994M6.22701 8.31693L7.28751 9.37744M15.773 8.31693L14.7125 9.37744M17.5198 14.8374L16.0715 14.4489M4.48026 14.8374L5.92851 14.4489" stroke="#379ADC" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_di_102_171" x="-4.25" y="-2.16052" width="22.5" height="22.3201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-4" dy="-4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_102_171"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_102_171" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_102_171"/>
+</filter>
+<clipPath id="clip0_102_171">
+<rect width="22" height="22" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
